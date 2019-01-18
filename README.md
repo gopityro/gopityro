@@ -1,7 +1,7 @@
 # gopityro
 A test to host git repository on netlify.
 
-How to make you git repository live on network ?
+How to make your git repository live on network ?
 
 Here I am taking help of netlify.com.
 
