@@ -11,4 +11,4 @@ step3: Autenticate netlify to access your git repositories.
 step4: Pick you site from git repositories.
 step5: Deploy site.
 
-Check my test porject on netlify: https://reverent-ramanujan-9422eb.netlify.com/
+Check my test project on netlify: https://reverent-ramanujan-9422eb.netlify.com/
