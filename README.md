@@ -1,4 +1,4 @@
-Guide: Hosting Your GitHub Repository on Netlify**
+**Guide:** Hosting a GitHub Repository on Netlify
 
 1. **Creating Your GitHub Repository**: Start by setting up your project on GitHub. Ensure it's well-structured and includes all necessary files for deployment.
 
