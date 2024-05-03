@@ -20,4 +20,4 @@
 
 Congratulations! You've successfully hosted your GitHub repository on Netlify. Your project is now accessible to the world.
 
-Check my test project on netlify: https://reverent-ramanujan-9422eb.netlify.com/
+Check my test project on netlify: [https://reverent-ramanujan-9422eb.netlify.com/](https://reverent-ramanujan-9422eb.netlify.app/)
